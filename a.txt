@@ -1,2 +1,3 @@
 a
 modified in branch b1
+now in master
